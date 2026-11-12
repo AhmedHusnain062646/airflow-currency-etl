@@ -4,7 +4,7 @@
 
 **Student:** Ahmed Husnain  
 **Date:** November 12, 2026  
-**Repository:** *(GitHub link to be added after push)*
+**Repository:** [https://github.com/AhmedHusnain062646/airflow-currency-etl](https://github.com/AhmedHusnain062646/airflow-currency-etl)
 
 ---
 
